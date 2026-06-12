@@ -298,54 +298,6 @@ Buzzer ON Terus
 
 ---
 
-## 🚀 Cara Menjalankan
-
-### 1. Clone Repository
-
-```bash
-git clone https://github.com/username/repository-name.git
-```
-
-### 2. Buka Arduino IDE
-
-Buka file:
-
-```text
-Pendeteksi_Hujan_ESP32.ino
-```
-
-### 3. Isi Konfigurasi
-
-```cpp
-#define BLYNK_TEMPLATE_ID ""
-#define BLYNK_TEMPLATE_NAME ""
-#define BLYNK_AUTH_TOKEN ""
-
-char ssid[] = "";
-char pass[] = "";
-
-#define BOT_TOKEN ""
-#define CHAT_ID ""
-```
-
-### 4. Upload Program
-
-Pilih board:
-
-```text
-ESP32 Dev Module
-```
-
-Kemudian upload ke ESP32.
-
-### 5. Jalankan Sistem
-
-* Hubungkan ESP32 ke WiFi.
-* Buka dashboard Blynk.
-* Pantau data sensor secara real-time.
-* Uji sensor dengan meneteskan air pada Water Level Sensor.
-
----
 
 ## 📈 Pengembangan Selanjutnya
 
