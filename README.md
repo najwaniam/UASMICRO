@@ -56,7 +56,6 @@ Install library berikut melalui Library Manager Arduino IDE:
 ```text
 Blynk
 DHT Sensor Library
-Adafruit Unified Sensor
 Universal Telegram Bot
 ArduinoJson
 WiFi
